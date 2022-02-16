@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.ssaa.tool.db.TableComparatorTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.047 s <<< FAILURE! - in com.ssaa.tool.db.TableComparatorTest
-testTableIsEqual  Time elapsed: 0.047 s  <<< FAILURE!
-org.opentest4j.AssertionFailedError: expected: <true> but was: <false>
-	at com.ssaa.tool.db.TableComparatorTest.testTableIsEqual(TableComparatorTest.java:16)
-
